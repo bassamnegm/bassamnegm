@@ -13,10 +13,8 @@ Clean UI • Smooth UX • Real Products
 
 ### 📬 Contact Me
 <p align="center">
-  <a href="https://linktr.ee/alshaimaahassan">
-    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shaimaa-hassan-5b758a246/">
+ 
+  <a href="https://www.linkedin.com/in/mohamed-negm-584437147/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
